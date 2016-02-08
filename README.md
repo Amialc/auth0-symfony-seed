@@ -4,6 +4,14 @@ This is the seed project you need to use if you're going to create an Symfony ap
 
 ## Running the example
 
+Install dependencies by running command:
+
+```
+composer install
+```
+
+Now you can use Apache or built-in server:
+
 ```
 php app/console server:run
 ```
@@ -30,4 +38,4 @@ Auth0 helps you to:
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](LICENSE.txt) file for more info.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
