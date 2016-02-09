@@ -71,7 +71,7 @@ hwi_oauth:
     resource_owners:
         auth0:
             type:                auth0
-            base_url:            https://tutorials.auth0.com
-            client_id:           sWUBe4ZEp7gKo7FiHBLg2GLA9SADLvLQ
-            client_secret:       PJNcg0V4UBAd1BjfYPZwd8vM82DTs_s1LN7KR_WLG0GQsIyvOg_X-pYcYFc-B9Wx
+            base_url:            {DOMAIN}
+            client_id:           {CLIENT_ID}
+            client_secret:       {CLIENT_SECRET}
             scope: "openid profile"
